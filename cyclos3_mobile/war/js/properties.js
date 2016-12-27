@@ -23,11 +23,12 @@
  * 
  * Possible options
  * hostUrl: "http://www.cyclos.org/cyclos_en"
+  hostUrl: "http://4africa.4f805b5d.svc.dockerapp.io:8080"
  * sessionTimeout: 300 (seconds) 
  * splashScreen: true (true/false)
  * version: "1.0.0"
  */
- hostUrl: "http://4africa.4f805b5d.svc.dockerapp.io:8080"
+
 var options = {
 		version: "1.1.0"
 };
