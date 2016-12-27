@@ -28,7 +28,7 @@
  * splashScreen: true (true/false)
  * version: "1.0.0"
  */
-
+ hostUrl: "http://4africa.4f805b5d.svc.dockerapp.io:8080"
 var options = {
 		version: "1.1.0"
 };
